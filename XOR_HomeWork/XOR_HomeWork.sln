@@ -5,6 +5,8 @@ VisualStudioVersion = 17.7.34221.43
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XOR_HomeWork", "XOR_HomeWork.csproj", "{5008AE13-E14B-4119-8BF1-2337D394AEFE}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XOR_HomeWork2", "..\XOR_HomeWork2\XOR_HomeWork2.csproj", "{D761A2EB-2CCA-494B-BA7D-09CD7E08A209}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{5008AE13-E14B-4119-8BF1-2337D394AEFE}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5008AE13-E14B-4119-8BF1-2337D394AEFE}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5008AE13-E14B-4119-8BF1-2337D394AEFE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D761A2EB-2CCA-494B-BA7D-09CD7E08A209}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D761A2EB-2CCA-494B-BA7D-09CD7E08A209}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D761A2EB-2CCA-494B-BA7D-09CD7E08A209}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D761A2EB-2CCA-494B-BA7D-09CD7E08A209}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
