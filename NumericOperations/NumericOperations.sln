@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34221.43
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NumericOperations", "NumericOperations.csproj", "{CEC637A7-5B73-4412-B9D0-537BE56DBC76}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AverageTemperature", "..\AverageTemperature\AverageTemperature.csproj", "{60F11057-27D0-4B7E-BB18-7DCC70655CCF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CEC637A7-5B73-4412-B9D0-537BE56DBC76}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CEC637A7-5B73-4412-B9D0-537BE56DBC76}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CEC637A7-5B73-4412-B9D0-537BE56DBC76}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CEC637A7-5B73-4412-B9D0-537BE56DBC76}.Release|Any CPU.Build.0 = Release|Any CPU
+		{60F11057-27D0-4B7E-BB18-7DCC70655CCF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{60F11057-27D0-4B7E-BB18-7DCC70655CCF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{60F11057-27D0-4B7E-BB18-7DCC70655CCF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{60F11057-27D0-4B7E-BB18-7DCC70655CCF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C80A5931-4836-430E-BF24-EDE160E60558}
+	EndGlobalSection
+EndGlobal
