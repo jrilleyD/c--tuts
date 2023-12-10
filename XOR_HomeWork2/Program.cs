@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Text.RegularExpressions;
 
 namespace XOR_HomeWork2
 {
@@ -6,12 +7,10 @@ namespace XOR_HomeWork2
     {
         static void Main(string[] args)
         {
-            Console.Write("Employee`s last name: ");
-            string lastName = Console.ReadLine();
-            Console.Write("Experience: ");
-            int experience = Convert.ToInt32(Console.ReadLine());
-
-            bool result = experience < 5 || experience >= 5 & experience < 10 || experience >= 10 & experience < 15 || experience >= 15 & experience < 25 ;
+            double pi = Math.PI;
+            long tenThousand = 10000L;
+            double tenThousandPi = (double)pi * tenThousand;
+            int roundedTenThousandPi = (int)Math.Round(tenThousandPi);
 
             Console.ReadKey();
         }
